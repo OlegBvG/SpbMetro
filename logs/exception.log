@@ -1,0 +1,5 @@
+2019-06-30 23:52:26.875 [main] ERROR Main - Получена ощибка: {}
+java.lang.NullPointerException: LogTest
+	at Main.createStationIndex(Main.java:114) [classes/:?]
+	at Main.getRouteCalculator(Main.java:51) [classes/:?]
+	at Main.main(Main.java:31) [classes/:?]
